@@ -26,7 +26,7 @@
 |Item drop on death customization|  \* |   x | Minecraft none or all. Hytale = None, all, partial. |
 |Item durability                 |   x |   x | |
 |Item durability customization   |  \* |   x | Minecraft requires mod. Hytale user sets 0-100%. |
-|Infinite Water                  |   x |  \* | Only via bottom of vertical water |
+|Infinite Water                  |   x |  \* | Hytale >!only via bottom of vertical water!< |
 |Key (default): Sprint           | Ctrl|Shift| |
 |Key (default): Crouch           |Shift|Ctrl | |
 |Look straight down              |-90°|-89.4°| |
@@ -40,10 +40,10 @@
 |Player Jump over fences         |     |   x | |
 |Player Ledge Grab               |     |   x | Hytale >!player can pull themselves up 4 blocks!<       |
 |Player Rolling                  |     |   x | Hytale >!player can roll after falling to minimize damage!< |
-|Player Sneaking prevents falling|   1 |   2 | Hytale >!sadly, is 2 blocks instead 1 block.!<            |
+|Player Sneaking prevents falling|   1 |   2 | Hytale >!sadly, is 2 blocks instead of 1 block.!<            |
 |Player clutch water bucket save |   x |   x | Hytale's >!physics requires slightly different timing.!< |
 |Portals                         |   x |   x | |
-|Portals show preview            |     |   x | |
+|Portals show preview            |  \* |   x | Minecraft requires a mod. |
 |Real-time shadows               |  \* | yes | Minecraft requires a shader mod. |
 |Redstone/Power                  |   x |     | |
 |SSAO                            |  \* | yes | Minecraft requires a shader mod. |
