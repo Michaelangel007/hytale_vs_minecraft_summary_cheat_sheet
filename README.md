@@ -1,27 +1,27 @@
 # Hytale vs Minecraft Summary
 
-`/!\` **NOTE:** This is NOT intended to start arguments as which game is better, but to give a quick bird's eye summary of similiar (and different) features found in both games.
+`/!\` **NOTE:** This is NOT intended to start arguments as which game is better, but to give a quick bird's eye summary of similar (and different) features found in both games.
 
 | Feature                    |Minecraft|Hytale|Notes|
 |:-------------------------------|----:|----:|:---------|
-|Boats                           |   x |  \* |Hytale's non-functional Wooden boat requires Creative Mode|
-|Colored Lighting                |  \* |   x | Minecraft requires a shader mod. \
+|Boats                           |   x |  \* |Hytale's >!non-functional Wooden boat requires Creative Mode!<|
+|Colored Lighting                |  \* |   x | Minecraft requires a shader mod. |
 |Crops                           |  20 |  21 | Hytale needs verification if accessible outside Creative|
 |Custom skins                    |  yes|  no | Limited hard-coded selection in Hytale |
 |Debug Screen                    | `F3`| `F7`| |
 |Debug Screen customization      |   x |     | Hytale has two versions: mini and full. |
 |Deferred Rendering              |  \* | yes | Minecraft requires a shader mod. |
 |Dynamic Lighting                |  \* | yes | Minecraft requires a shader mod. |
-|Floating trees via chopping     | :-( |nope!| Hytale floating trees must be manually placed. |
+|Floating trees via chopping     | :-( |nope!| Hytale's floating trees must be manually placed. |
 |Flowers                         |  30 |  66 | Hytale needs verification if accessible outside Creative|
 |Furniture                       |  \* | yes | Minecraft requires a mod. |
 |Gems/Crystals                   |   1 |   7 | |
 |Glass                           |   x |     | |
-|Glider                          |Elytra| \* | Hytale's non-functional Glider requires Creative Mode |
+|Glider                          |Elytra| \* | Hytale's >!non-functional Glider requires Creative Mode!< |
 |Golems                          |   x |   x | |
 |In-game Map                     |  \* | yes | Minecraft requires a mod. |
 |In-game compass HUD             |  \* |   x | Minecraft requires a mod. |
-|In-game compass item            |   x |     | Hytale has a compass HUD so technically not needed? |
+|In-game compass item            |   x |     | Hytale >!has a compass HUD so technically not needed?<!< |
 |Item drop on death              |   x |   x | |
 |Item drop on death customization|  \* |   x | Minecraft none or all. Hytale = None, all, partial. |
 |Item durability                 |   x |   x | |
@@ -36,42 +36,42 @@
 |Ores & Orelikes                 |  11 |  10 | |
 |Pistons                         |   x |     | |
 |Player Crawling                 |   x |     | |
-|Player Fall Damage toggle       |   x |   x | Minecraft /gamerule, Hytale at World creation. |
+|Player Fall Damage toggle       |   x |   x | Minecraft /gamerule, Hytale >!at World creation.!< |
 |Player Jump over fences         |     |   x | |
-|Player Ledge Grab               |     |   x | Hytale player can pull themselves up 4 blocks           |
-|Player Rolling                  |     |   x | Hytale player can roll after falling to minimize damage |
-|Player Sneaking prevents falling|   1 |   2 | Hytale, sadly, is 2 blocks instead 1 block.             |
-|Player clutch water bucket save |   x |   x | Hytale's physics requires slightly different timing.    |
+|Player Ledge Grab               |     |   x | Hytale >!player can pull themselves up 4 blocks!<       |
+|Player Rolling                  |     |   x | Hytale >!player can roll after falling to minimize damage!< |
+|Player Sneaking prevents falling|   1 |   2 | Hytale >!sadly, is 2 blocks instead 1 block.!<            |
+|Player clutch water bucket save |   x |   x | Hytale's >!physics requires slightly different timing.!< |
 |Portals                         |   x |   x | |
 |Portals show preview            |     |   x | |
 |Real-time shadows               |  \* | yes | Minecraft requires a shader mod. |
 |Redstone/Power                  |   x |     | |
 |SSAO                            |  \* | yes | Minecraft requires a shader mod. |
-|Saplings                        |   x |  \* | Craft 11 types in Farmer's Workbench |
+|Saplings                        |   x |  \* | Hytale >!craft 11 types in Farmer's Workbench!< |
 |Sea Level                       |  63 | 114 | | 
 |Seeds                           |   6 |  10 | |
 |Separate key for place & use?   | :-( | yes!| |
 |Shovel tiles                    |   1 |   9 | Minecraft requires mod for larger then 1x1 |
-|Signs                           |   x |  \* | Hytale's signs can't be written on. |
+|Signs                           |   x |  \* | Hytale's >!signs can't be written on.!< |
 |Sloped Roofs                    |     |   2 | |
-|Smelt wood into charcoal        |   x |     | Logs automatically turn into charcoal |
+|Smelt wood into charcoal        |   x |     | Hytale >!logs automatically turn into charcoal.!< |
 |Stalactites                     |   x |   x | |
 |Stalagmites                     |   x |   x | |
 |Textures                        |16x16|32x32| |
 |Tools                           |   5 |   7 | |
-|Trees drop saplings             |   x |     | Hytale requires Farmer's Workbench to craft saplings |
+|Trees drop saplings             |   x |     | Hytale >!requires Farmer's Workbench to craft saplings.!< |
 |Vertical Half Slabs             |     |   x | |
 |Wood Logs                       |  12 |  31 | |
 |Wood Planks                     |  12 |  11 | |
 |Workbenches/Stations            |  10 |   8 | |
 |World Block: Bottom             | -64 |   0 | |
 |World Block: Height             | 384 | 320 | |
-|World Block: Top                | 319 | 319 | Placing a workbench at 319 crashes Hytale. :-/ |
+|World Block: Top                | 319 | 319 | Hytale >!placing a workbench at 319 crashes. :-/!< |
 |World Mode: Adventure           |   x |  \* | Hytale Adventure mode available after Early Access |
 |World Mode: Creative            |   x |   x | |
 |World Mode: Spectate            |   x |     | |
 |World Mode: Survival            |   x |   x | |
-|World Time: Pauseable           |   x |   x | |
+|World Time: Pausable            |   x |   x | Hytale >!`/time pause`!<|
 
 Extra notes:
 
@@ -98,12 +98,7 @@ Extra notes:
   * Hytale = >!Blood Rose, Blood Leaf, Azure Fern, Azure Kelp, Mushroom, Storm Thistle, Storm Sapling, Wild Grass, Lavender, Sunflower!<
 * Tools
   * Minecraft = Axe, Hoe, Pickaxe, Shears, Shovel
-  * Hytale = |>Hammer, Hatchet, Hoe, Pickaxe, Shears, Shovel, Sickle!<
+  * Hytale = >!Hammer, Hatchet, Hoe, Pickaxe, Shears, Shovel, Sickle!<
 * Workbenches/Stations
   * Minecraft = Blast Furnace, Brewing Stand, Cartography Table, Crafting Table, Enchanting, Fletcher, Loom, Smithing Table, Smoker, Stonecutter
   * Hytale = >!Alchemist, Arcanist, Armorer, Builder, Farmer, Furniture, Salvager, Workbench!<
-  
- 
-
- 
-  
