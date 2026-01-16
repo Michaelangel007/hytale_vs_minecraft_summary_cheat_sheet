@@ -14,6 +14,7 @@
 |Dynamic Lighting                |  \* | yes | Minecraft requires a shader mod. |
 |Floating trees via chopping     | :-( |nope!| Hytale's floating trees must be manually placed. |
 |Flowers                         |  30 |  66 | Hytale needs verification if accessible outside Creative|
+|Fluids                          |   2 |   6 | |
 |Furniture                       |  \* | yes | Minecraft requires a mod. |
 |Gems/Crystals                   |   1 |   7 | |
 |Glass                           |   x |     | |
@@ -78,12 +79,15 @@ Extra notes:
 * Crops
   * Minecraft = Bambo, Beetroots, Cactus, Carrot, Chorus Fruit, Cocoa Beans, Fungus, Glow Berries, Kelp, Melon, Mushroom, Nether Wart, Pitcher Rod, Potatoe, Pumpkin, Sea Pickle, Sugar Cane, Sweet Berries, Torchflower, Wheat
   * Hytale = >!Apple, Aubergine, Berry Bush, Blood Rose, Bloodcap Mushroom, Blood Leaf, Carrot, Cauliflower, Chili, Corn, Cotton, Eggplant, Lettuce, Onion, Potato, Pumpkin, Rice, Storm Thistle, Stormcap Mushroom, Tomato, Turnip!<
-* Gems/Crystals
-  * Minecraft = Amethyst
-  * Hytale = >!Blue, Cyan, Green, Purple, Red, White, Yellow!<
 * Flowers
   * Minecraft = Allium, Azure Bonnet, Blue Orchid, Cactus Flower, Cherry Leaves, Chorus Flower, Cornflower, Dandelion, Closed Eyeblossom, Flowering Azalea, Flowering Azalea Leaves, Open Eyeblossom, Lilac, Lily of the Valley, Mangrove Propagule, Oxeye Daisy, Peony, Pink Petals, Pink Tulip, Pitcher Plant, Poppy, Orange Tulip, Red Tulip, Rose Bush, Spore Blossom, Sunflower, Torchflower, White Tulip, Wildflowers, Wither Rose
   * Hytale = >!Allium, Ashy Bush, Azure Flower, Berry Flax, Black Orchid, Blue Aloe, Blue Cave Wood, Blue Fax, Blue Hibiscus, Blue Nettle, Blue Waterlily, Bushy Cyan Fern, Bushy Orange Fern, Campanula Flower, Carmine Parched Thorn, Chrysanthemum, Common Orange Flower, Common Pink Flower (Poisoned), Common Pink Flower, Cyan Arid Flower, Cyan Festuca, Cyan Flower, Cyan Hibiscus, Daisy, Dandelion, Delphinium, Duckweed, Fire Flower, Frost Leaf, Hemlock, Jungle Flower, Larkspur, Lava Flower, Lavender, Lime succulent, Linen Weed, Lucerne, Nettle, Orange Orchid, Pink Camelia, Pink Flax, Pink Orchid, Poisoned Flower, Poisoned Nettle, Poppy, Purple Arid Flower, Purple Flowers, Purple Nettle, Purple Orchid, Purple Waterlily, Red Arid Flower, Red Featherleaf, Red Orchid, Red Waterlily, Sandylion, Small Daises, Sunflower, Tall Red Raffleia, Violets, Waterlily, White Hyrdrangea, White Orchid, White Waterlily, Yellow Arid Flower Bush, Yellow Hisbiscus, Yellow Orchid!<
+* Fluids
+  * Minecraft = Lava, Water
+  * Hytale = >!Lava, Poison, Slime, Red Slime, Tar, Water!<
+* Gems/Crystals
+  * Minecraft = Amethyst
+  * Hytale = >!Blue, Cyan, Green, Purple, Red, White, Yellow!<
 * Logs 
   * Minecraft = Acacia, Bamboo, Birch, Cherry, Crimson, Dark Oak, Jungle, Mangrove, Oak, Pale Oak, Spruce, Warped
   * Hytale = >!Amber, Ash, Aspen, Azure, Bamboo, Banyan, Beech, Birch, Blue Fig, Bottletree, Burnt, Camphor, Cedar, Crystalwood, Dry, Fir, Fire,  Gumboab, Ice, Jungle, Maple, Oak, Palm Tree, Palo, Petrified, Poisoned, Redwood, Sallow, Spiral, Stormbark, Stripped, Windwillow, Wild Wisteria!<
