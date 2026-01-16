@@ -56,7 +56,7 @@
 |Sloped Roofs                    |     |   2 | |
 |Smelt wood into charcoal        |   x |     | Hytale >!logs automatically turn into charcoal.!< |
 |Stalactites                     |   x |   x | |
-|Stalagmites                     |   x |   x | |
+|Stalagmites                     |   x |   x | Hytale >!uses rotated Stalactites!< |
 |Textures                        |16x16|32x32| |
 |Tools                           |   5 |   7 | |
 |Trees drop saplings             |   x |     | Hytale >!requires Farmer's Workbench to craft saplings.!< |
