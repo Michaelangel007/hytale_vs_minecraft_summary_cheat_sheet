@@ -4,6 +4,10 @@
 
 | Feature                    |Minecraft|Hytale|Notes|
 |:-------------------------------|----:|----:|:---------|
+|Age                             | 16y | ~1w | |
+|Animal Breeding                 |   x |     | Feature unparity. :-( |
+|Animal Mobs                     |  86 | 180 | Hytale's >!functional 180 out of 240 World > Spawn Entity <! |
+|Animal Spawn eggs               |  85+|   5 | |
 |Boats                           |   x |  \* |Hytale's >!non-functional Wooden boat requires Creative Mode!<|
 |Colored Lighting                |  \* |   x | Minecraft requires a shader mod. |
 |Crops                           |  20 |  21 | Hytale needs verification if accessible outside Creative|
@@ -27,14 +31,15 @@
 |Item drop on death customization|  \* |   x | Minecraft none or all. Hytale = None, all, partial. |
 |Item durability                 |   x |   x | |
 |Item durability customization   |  \* |   x | Minecraft requires mod. Hytale user sets 0-100%. |
-|Infinite Water                  |   x |  \* | Hytale >!only via bottom of vertical water!< |
+|Infinite Lava                   |   x |   x | |
+|Infinite Water                  |   x |     | Hytale >!only via bottom of vertical water! before Build-3< |
 |Key (default): Sprint           | Ctrl|Shift| |
 |Key (default): Crouch           |Shift|Ctrl | |
 |Look straight down              |-90°|-89.4°| |
 |Maps                            |   x |     | |
 |Max Item Stacks                 |  64 | 100 | |
 |Mod Support                     |   x |   x | |
-|Ores & Orelikes                 |  11 |  10 | |
+|Ores & Ore-likes                |  11 |  10 | Hytale >!7 out of 10 functional!< |
 |Pistons                         |   x |     | |
 |Player Crawling                 |   x |     | |
 |Player Fall Damage toggle       |   x |   x | Minecraft /gamerule, Hytale >!at World creation.!< |
@@ -62,6 +67,7 @@
 |Tools                           |   5 |   7 | |
 |Trees drop saplings             |   x |     | Hytale >!requires Farmer's Workbench to craft saplings.!< |
 |Vertical Half Slabs             |     |   x | |
+|Water streams push items        |   x |     | Feature unparity. :-( |
 |Wood Logs                       |  12 |  31 | |
 |Wood Planks                     |  12 |  11 | |
 |Workbenches/Stations            |  10 |   8 | |
