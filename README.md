@@ -64,6 +64,7 @@
 |Stalactites                     |   x |   x | |
 |Stalagmites                     |   x |   x | Hytale >!uses rotated Stalactites!< |
 |Textures                        |16x16|32x32| |
+|Tick Rate                       |  20 |  30 | 50ms/tick vs 33ms/tick. |
 |Tools                           |   5 |   7 | |
 |Trees drop saplings             |   x |     | Hytale >!requires Farmer's Workbench to craft saplings.!< |
 |Vertical Half Slabs             |     |   x | |
